@@ -38,7 +38,7 @@
 
 |전체 구현 화면|
 |:----:|
-|<img src="https://github.com/user-attachments/assets/4fce69a0-6829-4817-97c0-1d11e84ccd0c" width="300">|
+|<img src="https://github.com/user-attachments/assets/f2edd129-38c0-44df-a662-b842b43a8d28" width="300">|
 
 -------------
 
